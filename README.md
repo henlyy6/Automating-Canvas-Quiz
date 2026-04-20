@@ -21,7 +21,7 @@ GROQ_API_KEY = "your-key"
 python solver.py
 Login to Canvas → Start quiz → Press Enter in terminal
 
-#📦 Requirements
+# 📦 Requirements
 Python 3.7+
 
 Brave Browser (or modify for Chrome)
