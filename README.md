@@ -4,7 +4,7 @@
 
 ## 🚀 Quick Start
 
-### 1. **CLONE & INSTALL**:
+### **CLONE & INSTALL**:
 cd canvas-quiz-ai-solver
 pip install selenium openai google-genai
 
