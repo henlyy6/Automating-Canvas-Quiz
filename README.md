@@ -23,8 +23,6 @@ RUN:
 python solver.py
 # Login to Canvas → Start quiz → Press Enter in terminal
 
-#################################################################################
-
 📦 Requirements
 Python 3.7+
 
