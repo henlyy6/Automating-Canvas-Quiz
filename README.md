@@ -4,14 +4,14 @@
 
 ## 🚀 Quick Start
 
-1. **CLONE & INSTALL**:
+### 1. **CLONE & INSTALL**:
 IN bash
 git clone https://github.com/yourusername/canvas-quiz-ai-solver.git
 cd canvas-quiz-ai-solver
 pip install selenium openai google-genai
 
 CONFIGURE:
-# config section in solver.py
+### config section in solver.py
 QUIZ_URL = "your-canvas-quiz-url"
 BRAVE_PATH = r"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe"
 
@@ -19,11 +19,11 @@ GEMINI_API_KEY = "your-key"
 CEREBRAS_API_KEY = "your-key"  
 GROQ_API_KEY = "your-key"
 
-RUN:
+### RUN:
 python solver.py
-# Login to Canvas → Start quiz → Press Enter in terminal
+Login to Canvas → Start quiz → Press Enter in terminal
 
-📦 Requirements
+#📦 Requirements
 Python 3.7+
 
 Brave Browser (or modify for Chrome)
