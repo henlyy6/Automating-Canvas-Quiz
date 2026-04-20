@@ -5,8 +5,6 @@
 ## 🚀 Quick Start
 
 ### 1. **CLONE & INSTALL**:
-IN bash
-git clone https://github.com/yourusername/canvas-quiz-ai-solver.git
 cd canvas-quiz-ai-solver
 pip install selenium openai google-genai
 
