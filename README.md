@@ -8,8 +8,8 @@
 cd canvas-quiz-ai-solver
 pip install selenium openai google-genai
 
-CONFIGURE:
-### config section in solver.py
+### CONFIGURE:
+config section in solver.py
 QUIZ_URL = "your-canvas-quiz-url"
 BRAVE_PATH = r"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe"
 
